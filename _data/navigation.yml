@@ -3,9 +3,9 @@ main:
   - title: "Joseph Hall"
     url: /#section-1
     blank: false
-  - title: "Samantha"
+  - title: "Section 2"
     url: /#section-2
     blank: false
-  - title: "Natalie Fernandez"
+  - title: "Section 3"
     url: /#section-3
     blank: false
